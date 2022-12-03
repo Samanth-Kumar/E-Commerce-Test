@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="6" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-03T11:43:55 IST" name="Default suite" finished-at="2022-12-03T11:44:20 IST" duration-ms="25567">
+    <groups>
+    </groups>
+    <test started-at="2022-12-03T11:43:55 IST" name="Default test" finished-at="2022-12-03T11:44:20 IST" duration-ms="25567">
+      <class name="automationScripts.AmazonFeatureTests">
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:automationScripts.AmazonFeatureTests@294425a7]" started-at="2022-12-03T11:43:55 IST" name="invokeBrowser" finished-at="2022-12-03T11:44:07 IST" duration-ms="12120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="verifyTitleOfThePage()[pri:0, instance:automationScripts.AmazonFeatureTests@294425a7]" started-at="2022-12-03T11:44:07 IST" name="verifyTitleOfThePage" finished-at="2022-12-03T11:44:07 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleOfThePage -->
+        <test-method signature="searchProduct()[pri:1, instance:automationScripts.AmazonFeatureTests@294425a7]" started-at="2022-12-03T11:44:07 IST" name="searchProduct" finished-at="2022-12-03T11:44:15 IST" duration-ms="7753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method signature="getNthProduct()[pri:2, instance:automationScripts.AmazonFeatureTests@294425a7]" started-at="2022-12-03T11:44:15 IST" name="getNthProduct" finished-at="2022-12-03T11:44:15 IST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getNthProduct -->
+        <test-method signature="getAllProductsViaScrollDownUsingJS()[pri:5, instance:automationScripts.AmazonFeatureTests@294425a7]" started-at="2022-12-03T11:44:15 IST" name="getAllProductsViaScrollDownUsingJS" finished-at="2022-12-03T11:44:20 IST" duration-ms="5438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllProductsViaScrollDownUsingJS -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:automationScripts.AmazonFeatureTests@294425a7]" started-at="2022-12-03T11:44:20 IST" name="closeBrowser" finished-at="2022-12-03T11:44:20 IST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- automationScripts.AmazonFeatureTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
